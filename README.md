@@ -19,7 +19,7 @@ This is a Cordova Plugin for QQ SDK . [简体中文](https://github.com/zzhDmon/
 - Cordova-Android >=4.0			
 
 ##Installation
-1. ```cordova plugin add https://github.com/iVanPan/Cordova_QQ.git --variable QQ_APP_ID=YOUR_QQ_APPID``` or ```cordova plugin add cordova-plugin-qqsdk --variable QQ_APP_ID=YOUR_QQ_APPID```                  
+1. ```cordova plugin add https://github.com/zzhDmon/cordova_qq.git --variable QQ_APP_ID=YOUR_QQ_APPID```                
 2. cordova build          			
 
 ##Notes			
