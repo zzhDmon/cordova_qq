@@ -4,8 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://github.com/iVanPan/Cordova_QQ/blob/master/LICENSE)
 [![Contact](https://img.shields.io/badge/contact-Van-green.svg?style=flat)](http://VanPan.me)
 	
-这个一个QQ SDK的Cordova 插件。 [English](https://github.com/iVanPan/Cordova_QQ)				
-如果你希望使用一个微博的cordova插件可以查看[这里](https://github.com/iVanPan/cordova_weibo).
+这个一个QQ SDK的Cordova 插件。 [English](https://github.com/zzhDmon/cordova_qq)				
 ##主要功能
 - QQ 登录
 - QQ 登出

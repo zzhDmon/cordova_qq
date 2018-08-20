@@ -4,8 +4,8 @@
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://github.com/iVanPan/Cordova_QQ/blob/master/LICENSE)
 [![Contact](https://img.shields.io/badge/contact-Van-green.svg?style=flat)](http://VanPan.me)					
 
-This is a Cordova Plugin for QQ SDK . [简体中文](https://github.com/iVanPan/Cordova_QQ/blob/master/README_ZH.md).     
-I also write a cordova plugin for WeiboSDK [here](https://github.com/iVanPan/cordova_weibo).
+This is a Cordova Plugin for QQ SDK . [简体中文](https://github.com/zzhDmon/cordova_qq/blob/master/README_ZH.md).     
+
 ## Feature
 1. QQ SSO Login
 2. QQ Logout 
